@@ -49,10 +49,10 @@ This analysis compares the cost of goods sold (COGS), sales, and profit for each
 ## **Discount Impact Analysis**
 This analysis evaluates the impact of different discount bands on sales and profit to understand how discounts affect revenue and profitability.
 
-## ** Country-wise Analysis**
+## **Country-wise Analysis**
 This analysis provides insights into the total units sold, total sales, total profit, and average profit margin by country.
 
-## ** Product-wise Analysis**
+## **Product-wise Analysis**
 This analysis provides insights into the total units sold, total sales, total profit, and average profit margin by product.
 
 # Visualizations
