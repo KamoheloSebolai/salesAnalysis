@@ -24,13 +24,13 @@ The dataset contains the following columns:
 - Month Name: Name of the month (e.g., January).
 - Year: Year of the sale.
 
-# Installation
+## **Installation** 
 To run this project, you need to have Python installed along with the following libraries:
 
 - pandas
 - matplotlib
 - seaborn
-You can install the required libraries using pip: pip install pandas matplotlib seaborn
+- You can install the required libraries using pip: pip install pandas matplotlib seaborn
 
 
 # Analysis
