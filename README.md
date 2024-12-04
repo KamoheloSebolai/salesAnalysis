@@ -34,25 +34,25 @@ To run this project, you need to have Python installed along with the following 
 
 
 # Analysis
-## Summary Statistics
+## **Summary Statistics**
 The summary statistics provide an overview of the total units sold, total gross sales, total discounts, total sales, total COGS, total profit, average manufacturing price, and average sale price.
 
-## Profit Margin Analysis
+## **Profit Margin Analysis**
 This analysis calculates the profit margin for each product to understand which products are the most profitable.
 
-## Sales Trend Analysis
+## **Sales Trend Analysis**
 This analysis examines the sales trend over time to identify any seasonal patterns or trends.
 
-## Cost Analysis by Product
+## **Cost Analysis by Product**
 This analysis compares the cost of goods sold (COGS), sales, and profit for each product to understand the cost structure and profitability.
 
-## Discount Impact Analysis
+## **Discount Impact Analysis**
 This analysis evaluates the impact of different discount bands on sales and profit to understand how discounts affect revenue and profitability.
 
-## Country-wise Analysis
+## ** Country-wise Analysis**
 This analysis provides insights into the total units sold, total sales, total profit, and average profit margin by country.
 
-## Product-wise Analysis
+## ** Product-wise Analysis**
 This analysis provides insights into the total units sold, total sales, total profit, and average profit margin by product.
 
 # Visualizations
