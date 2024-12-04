@@ -4,7 +4,7 @@
 
 This project uses Python to analyze a sales dataset containing information on product sales, discounts, costs, and profits across different segments, countries, and time periods. The goal is to extract meaningful insights that could help improve sales strategies, optimize profits, and identify trends in product and regional performance.
 
-# Data Overview
+# Data
 The dataset contains the following columns:
 
 - Segment: Business segment (e.g., Government).
